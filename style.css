@@ -1,0 +1,23 @@
+body{
+    background-size:cover ;
+}
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    border-radius: 0px;
+    font-size: 25px;
+}
+.heading2{
+    width: 100%;
+    margin-top: 0px;
+    border-radius: 0px;
+    color: black;
+}
+input{
+    margin-top: 23px;
+    border-radius: 20px;
+}
+canvas{
+    border-color: white;
+    box-shadow: 5px 5px 5px grey;
+}
